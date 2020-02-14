@@ -1,6 +1,6 @@
 # Simple RESTful API with NodeJS, Express, Mongoose, MongoDB (Movie List)
 
-> This is a repo I make to learn how to design RESTful API with NodeJS, Express, Mongoose and MongoDB as well.
+> This is a repo I make to learn how to design RESTful API with NodeJS, Express, Mongoose and MongoDB.
 
 [![NodeJS][node-image]][node-url] [![Npm][npm-image]][npm-url] [![Express][express-image]][express-url] [![MongoDB][mongo-image]][mongo-url]
 
@@ -47,7 +47,6 @@ npm start
 
 
 
-<!-- Markdown link & img -->
 [node-image]: https://img.shields.io/badge/node-13.7-green
 [node-url]: https://nodejs.org/en/
 [npm-image]: https://img.shields.io/badge/npm-6.13-orange
