@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Interstellar",
+    "stars": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "releasedDate": "2014-11-07",
+    "duration": 169,
+    "poster": "insterstellar.jpg"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "stars": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo"],
+    "releasedDate": "2018-04-27",
+    "duration": 149,
+    "poster": "avengers_infinity_war.jpg"
+  },
+  {
+    "title": "3 Idiots",
+    "stars": ["Aamir Khan", "Madhavan", "Mona Singh"],
+    "releasedDate": "2009-12-25",
+    "duration": 170,
+    "poster": "3_idiots.jpg"
+  },
+  {
+    "title": "Warcraft",
+    "stars": ["Travis Fimmel", "Paula Patton", "Ben Foster"],
+    "releasedDate": "2016-06-10",
+    "duration": 123,
+    "poster": "warcraft.jpg"
+  },
+  {
+    "title": "Up",
+    "stars": ["Edward Asner", "Jordan Nagai", "John Ratzenberger"],
+    "releasedDate": "2009-05-29",
+    "duration": 96,
+    "poster": "up.jpg"
+  },
+  {
+    "title": "The Martian",
+    "stars": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+    "releasedDate": "2015-10-02",
+    "duration": 144,
+    "poster": "the_martian.jpg"
+  },
+  {
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "stars": ["Johnny Depp", "Orlando Bloom", "Keira Knightley"],
+    "releasedDate": "2006-07-07",
+    "duration": 151,
+    "poster": "pirates_caribbean_deadman_chest.jpg"
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "stars": ["Chris Pratt", "Bryce Dallas Howard", "Rafe Spall"],
+    "releasedDate": "2018-06-22",
+    "duration": 128,
+    "poster": "jurassic_world_fallen_kingdom.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "stars": ["Emilia Clarke", "Sam Claflin", "Janet McTeer"],
+    "releasedDate": "2016-06-03",
+    "duration": 106,
+    "poster": "me_before_you.jpg"
+  }
+]
