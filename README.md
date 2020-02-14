@@ -1,4 +1,4 @@
-# Simple RESTful API with NodeJS, Express, Mongoose, MongoDB (Movies List)
+# Simple RESTful API with NodeJS, Express, Mongoose, MongoDB (Movie List)
 
 > This is a repo I make to learn how to design RESTful API with NodeJS, Express, Mongoose and MongoDB as well.
 
@@ -30,20 +30,20 @@ npm start
 
 
 ### API
-**Get all movies:**
-GET /api/v1/movies/
+**GET** /api/v1/movies/
+(Get all movies)
 
-**Add new movie:**
-POST /api/v1/movies/
+**POST** /api/v1/movies/
+(Add new movie)
 
-**Get 1 movie:**
-GET /api/v1/movies/{id}
+**GET** /api/v1/movies/{id}
+(Get one movie)
 
-**Update 1 movie:**
-PATCH /api/v1/movies/{id}
+**PATCH** /api/v1/movies/{id}
+(Update one movie)
 
-**Delete 1 movie:**
-DELETE /api/v1/movies/{id}
+**DELETE** /api/v1/movies/{id}
+(Delete one movie)
 
 
 
