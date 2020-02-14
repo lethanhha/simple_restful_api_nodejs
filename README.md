@@ -8,7 +8,7 @@
 
 ## Usage
 ### Installation
-Requirements: *Node, MongoDB*
+Requirements: *Node, NPM, MongoDB*
 
 Sync package.json:
 
